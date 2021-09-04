@@ -1,8 +1,8 @@
-## Getting Started
+##Getting Started
 
 To install the Angular CLI:
 
-`npm install –g @angular/cli`
+`npm install â€“g @angular/cli`
 
 Generating and serving an Angular project via a development server Create and run a new project:
 
